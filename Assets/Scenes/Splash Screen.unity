@@ -1844,7 +1844,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'EXPERIENCE TITLE
+  m_text: 'GROW XR
 
     Welcome back!'
   m_isRightToLeft: 0
