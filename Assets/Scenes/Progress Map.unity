@@ -9781,7 +9781,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Your progress
+  m_text: Your future
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bf84e824260d5cd45930f2afad97252e, type: 2}
   m_sharedMaterial: {fileID: -2758528619559577450, guid: bf84e824260d5cd45930f2afad97252e, type: 2}
@@ -23025,7 +23025,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Here you can see your path to recovery!
+  m_text: Here you can see your future path to recovery!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: bf84e824260d5cd45930f2afad97252e, type: 2}
   m_sharedMaterial: {fileID: -2758528619559577450, guid: bf84e824260d5cd45930f2afad97252e, type: 2}
